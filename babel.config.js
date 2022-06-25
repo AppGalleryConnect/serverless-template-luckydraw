@@ -1,14 +1,16 @@
 module.exports = {
-  presets: ['@vue/cli-plugin-babel/preset'],
+  presets: ["@vue/cli-plugin-babel/preset"],
   plugins: [
     [
-      'import',
+      "import",
       {
-        libraryName: 'vant',
-        libraryDirectory: 'es',
-        style: true,
+        libraryName: "vant",
+        libraryDirectory: "es",
+        style: true
       },
-      'vant',
+      "vant"
     ],
-  ],
+    "@babel/plugin-proposal-nullish-coalescing-operator",
+    "@babel/plugin-proposal-optional-chaining"
+  ]
 };
