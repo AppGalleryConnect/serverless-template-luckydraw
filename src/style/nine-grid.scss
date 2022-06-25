@@ -1,0 +1,87 @@
+// Copyright 2022. Huawei Technologies Co., Ltd. All rights reserved.
+
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+
+//   http://www.apache.org/licenses/LICENSE-2.0
+
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+
+/** main style */
+.grid-container {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url('../assets/nineGrid-img/bg.png');
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+::v-deep {
+  /** Campaign Description - CampaignDesc style override */
+  .campaign-desc {
+    text-align: left;
+    background: #3d6fbb;
+    padding: 12px;
+    color: #fff;
+    border-radius: 8px;
+    overflow: auto;
+    margin: 10px 8%;
+  }
+  .campaign-desc__content {
+    margin-bottom: 7px;
+  }
+  .campaign-desc__content__item {
+    font-size: 12px;
+    color: #fff;
+    margin-bottom: 12px;
+  }
+
+  /** Winning popup - NineGridPopup style override */
+  .getReward {
+    background-image: url('../assets/nineGrid-img/win.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 382px;
+    position: relative;
+  }
+  .notReward {
+    background-image: url('../assets/nineGrid-img/noWin.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 96%;
+    height: 382px;
+  }
+  .getReward-popup {
+    width: 280px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: transparent;
+  }
+  .getReward-name {
+    position: absolute;
+    bottom: 83px;
+    left: 17px;
+    width: 90%;
+    text-align: center;
+    color: #fff;
+  }
+  .getReward-img {
+    position: absolute;
+    bottom: 128px;
+    left: 109px;
+    width: 70px;
+    height: 70px;
+    img {
+      width: 120%;
+    }
+  }
+}
+

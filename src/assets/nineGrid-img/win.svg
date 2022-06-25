@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="343px" viewBox="0 0 257 343" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC67B" offset="0%"></stop>
+            <stop stop-color="#FFDB9C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFC67B" offset="0%"></stop>
+            <stop stop-color="#FFDB9C" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-25.8%" y="-40.1%" width="151.6%" height="180.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.895953635   0 0 0 0 0.624001222   0 0 0 0 0.291614939  0 0 0 0.515239155 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0.761616313%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FB7B65" offset="0%"></stop>
+            <stop stop-color="#FF9F90" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0 -0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.5629849%" id="linearGradient-6">
+            <stop stop-color="#FFCA81" offset="0%"></stop>
+            <stop stop-color="#EC8B3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6993485%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.00953684987" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.518431764" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6993485%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.00953684987" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.518431764" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-15.3%" y="-150.0%" width="130.5%" height="400.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M18.1025063,35.6220918 C20.8139467,36.767679 22.169667,37.8332467 22.169667,38.8187948 C22.169667,39.804343 21.8470652,40.2626354 21.2018618,40.1936721 C19.7808282,40.4047434 19.4255698,41.1141979 20.1360866,42.3220357 C21.2018618,44.1337923 18.1025063,41.9743745 18.1025063,44.5310507 C16.4447586,46.7353125 4.20107519,55.8839474 4.20107519,79.5847227 C4.20107519,88.4582839 10.1906058,95.6513839 22.169667,101.164023 C33.9992924,105 44.7642992,105.958994 54.4646872,104.041006 C69.0152693,101.164023 83.083678,90.9732633 80.7436095,70.3110459 C79.6813396,60.9314694 74.4955105,52.0234793 65.1861224,43.5870757 C66.0417923,42.1188587 65.7036796,40.8921939 64.1717842,39.9070815 C63.9058902,40.1305702 63.0370155,40.6922402 63.0370155,39.9070815 C63.0370155,39.1219227 66.9611709,36.3408257 69.1939439,35.9814588 C71.4267169,35.6220918 74.5729743,34.2099745 72.6187453,31.5444296 C70.6645163,28.8788848 67.2298473,24.1557696 65.9782649,23.8411211 C64.7266825,23.5264727 61.1662667,24.8182158 59.7582051,26.4703913 C58.3303526,25.8525823 53.3709965,24.058795 50.7786332,25.2645932 C49.0503909,26.0684586 47.668408,26.6074981 46.6326844,26.8817117 C46.2449604,25.4803276 45.6353199,24.7796356 44.8037629,24.7796356 C45.1266562,24.3026059 45.4716138,23.9897677 45.8386357,23.8411211 C47.4723075,24.4577079 48.5581847,24.6118546 49.0962675,24.3035612 C49.6343502,23.9952678 50.2926846,23.2848688 51.0712706,22.172364 C52.6027842,23.2848688 53.7339231,23.8411211 54.4646872,23.8411211 C55.3505521,23.4108445 56.1953044,22.5337004 56.998944,21.2096889 C56.1455366,19.5146692 55.0279042,18.0527167 53.6460468,16.8238314 C52.2641894,15.5949461 53.3818218,14.9855377 56.998944,14.9956062 C58.8528076,15.8760705 60.448978,16.3163027 61.7874554,16.3163027 C63.7951714,16.3163027 69.9651961,14.9633667 69.9651961,8.06322548 C69.9651961,1.16308424 64.646166,0 60.822555,0 C58.273481,0 56.6421012,0.608377107 55.9284155,1.82513132 C52.4112659,0.954071443 49.6778697,2.16387231 47.728227,5.45453392 C45.19767,4.15397507 40.9448867,1.96925061 38.2272751,3.38475098 C35.5096635,4.80025136 31.159045,7.10853416 31.159045,11.7124184 C30.3550729,10.9061223 27.8533725,12.021207 27.8533725,12.021207 C27.8533725,12.021207 25.54509,12.6844714 25.54509,15.4409701 C25.5497112,15.7511418 25.3501402,16.0429193 24.9463771,16.3163027 C22.2292532,13.9848359 19.4614567,13.5446038 16.6429877,14.9956062 C12.4152841,17.17211 11.0246215,20.0950868 11.0246215,23.2827391 C8.29514442,22.7449685 3.58333153,21.6431757 1.05793501,25.5514714 C-1.4674615,29.459767 0.989507188,34.3444604 3.60948229,35.2359975 C2.95990782,38.2450698 3.82048703,44.5310507 10.2317374,44.5310507 C14.5059042,44.5310507 17.1294939,41.5613977 18.1025063,35.6220918 Z" id="path-10"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.5629849%" id="linearGradient-12">
+            <stop stop-color="#FFCA81" offset="0%"></stop>
+            <stop stop-color="#EC8B3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="81.5319131%" y1="61.6887391%" x2="19.5602671%" y2="51.3867884%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-14" points="80 11 76 33.548424 117.54065 45 111.166667 29 124.833333 21.8642773"></polygon>
+        <polygon id="path-15" points="4 11 0 33.548424 41.5406504 45 35.1666667 29 48.8333333 21.8642773"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.5629849%" id="linearGradient-16">
+            <stop stop-color="#FFCA81" offset="0%"></stop>
+            <stop stop-color="#EC8B3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.5629849%" id="linearGradient-17">
+            <stop stop-color="#FFCA81" offset="0%"></stop>
+            <stop stop-color="#FFA159" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-18" font-family="YouSheBiaoTiHei" font-size="46" font-weight="normal">
+            <tspan x="47.4041367" y="76.6900936">恭喜中奖</tspan>
+        </text>
+        <filter x="-0.3%" y="-0.8%" width="101.2%" height="103.3%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.798581331   0 0 0 0 0.356732604   0 0 0 0 0.168414609  0 0 0 0.957835378 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-16备份" transform="translate(0.595863, 0.309906)">
+            <g id="编组-21">
+                <path d="M239.705947,19.8766407 L235.201438,21.5250286 C241.183113,24.7409732 243.558657,27.754606 242.32807,30.565927 C240.482189,34.7829084 228.462249,35.8259235 229.555614,38.0103007 C230.64898,40.194678 242.713997,38.5291307 242.713997,42.2124224 C242.713997,45.8957141 235.488073,45.5448375 237.179136,48.0407883 C238.306511,49.7047555 241.200446,50.6945929 245.860942,51.0103007 L245.860942,48.0407883 C243.112778,48.7283318 241.061113,48.5878504 239.705947,47.6193443 C237.673198,46.1665851 242.713997,42.8879968 239.705947,42.2124224 C236.697897,41.536848 227.404137,40.551333 227.404137,37.6713331 C227.404137,34.7913333 239.705947,34.3269351 244.545086,33.1091219 C249.384225,31.8913087 246.123716,19.5839372 242.32807,18.6900936 C241.537907,19.1696422 240.663866,19.5651579 239.705947,19.8766407 Z" id="路径-20" fill="url(#linearGradient-1)"></path>
+                <image id="位图" opacity="0.5" transform="translate(41.681333, 25.522567) scale(-1, 1) rotate(16.000000) translate(-41.681333, -25.522567) " x="27.5534263" y="3.02256708" width="28.255814" height="45" xlink:href="data:image/png;base64,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"></image>
+                <path d="M-8.62407145,48.2653501 C3.8100723,35.7587681 11.076567,32.6321226 13.1754128,38.8854136 C16.3236814,48.2653501 29.7226946,72.4508028 36.3759286,55.6681082 C34.5736027,52.4785822 33.4804243,48.9677224 33.0963935,45.135529 C27.1804642,50.3532467 22.3631534,48.2698749 18.6444609,38.8854136 C14.9257684,29.5009523 6.64056208,35.0951838 -6.21115795,55.6681082 L-8.62407145,48.2653501 Z" id="路径-18" fill="url(#linearGradient-2)" transform="translate(13.875929, 47.961047) rotate(89.000000) translate(-13.875929, -47.961047) "></path>
+                <image id="位图备份-2" opacity="0.600000024" transform="translate(241.549687, 75.149381) rotate(16.000000) translate(-241.549687, -75.149381) " x="231.503175" y="59.149381" width="20.0930233" height="32" xlink:href="data:image/png;base64,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"></image>
+                <g id="编组-14" filter="url(#filter-3)" transform="translate(211.908541, 111.675500) scale(-1, 1) translate(-211.908541, -111.675500) translate(196.404137, 101.690094)">
+                    <path d="M15.9794096,0 C8.79953835,4.03871329 3.47306849,5.52017122 0,4.44437378 C3.0495641,11.3706486 10.8612606,19.9708121 20.6150438,19.9708121 C24.9016785,18.20364 24.9016785,15.3521743 31.0088087,16.0712062 C23.4992737,12.8201371 18.489474,7.46306836 15.9794096,0 Z" id="路径-17" fill="url(#linearGradient-4)" filter="url(#filter-5)"></path>
+                    <path d="M14.444,15.9843738 C14.996,15.9843738 15.486,15.8703738 15.914,15.6423738 C16.342,15.4143738 16.674,15.1023738 16.91,14.7063738 C17.146,14.3103738 17.264,13.8643738 17.264,13.3683738 C17.264,12.8483738 17.134,12.3883738 16.874,11.9883738 C16.614,11.5883738 16.256,11.2843738 15.8,11.0763738 C16.16,10.8843738 16.44,10.6263738 16.64,10.3023738 C16.84,9.97837378 16.94,9.61237378 16.94,9.20437378 C16.94,8.78037378 16.836,8.39437378 16.628,8.04637378 C16.42,7.69837378 16.126,7.42237378 15.746,7.21837378 C15.366,7.01437378 14.932,6.91237378 14.444,6.91237378 C13.948,6.91237378 13.504,7.01437378 13.112,7.21837378 C12.72,7.42237378 12.416,7.70037378 12.2,8.05237378 C11.984,8.40437378 11.876,8.78837378 11.876,9.20437378 C11.876,9.61237378 11.98,9.97837378 12.188,10.3023738 C12.396,10.6263738 12.684,10.8843738 13.052,11.0763738 C12.588,11.2843738 12.226,11.5883738 11.966,11.9883738 C11.706,12.3883738 11.576,12.8483738 11.576,13.3683738 C11.576,13.8643738 11.696,14.3123738 11.936,14.7123738 C12.176,15.1123738 12.512,15.4243738 12.944,15.6483738 C13.376,15.8723738 13.876,15.9843738 14.444,15.9843738 Z M14.444,10.6203738 C13.996,10.6203738 13.642,10.4923738 13.382,10.2363738 C13.122,9.98037378 12.992,9.64837378 12.992,9.24037378 C12.992,8.82437378 13.122,8.48837378 13.382,8.23237378 C13.642,7.97637378 13.996,7.84837378 14.444,7.84837378 C14.884,7.84837378 15.232,7.97837378 15.488,8.23837378 C15.744,8.49837378 15.872,8.83237378 15.872,9.24037378 C15.872,9.64037378 15.744,9.97037378 15.488,10.2303738 C15.232,10.4903738 14.884,10.6203738 14.444,10.6203738 Z M14.444,15.0243738 C13.916,15.0243738 13.496,14.8743738 13.184,14.5743738 C12.872,14.2743738 12.716,13.8603738 12.716,13.3323738 C12.716,12.8043738 12.87,12.3843738 13.178,12.0723738 C13.486,11.7603738 13.908,11.6043738 14.444,11.6043738 C14.972,11.6043738 15.388,11.7603738 15.692,12.0723738 C15.996,12.3843738 16.148,12.8043738 16.148,13.3323738 C16.148,13.8523738 15.992,14.2643738 15.68,14.5683738 C15.368,14.8723738 14.956,15.0243738 14.444,15.0243738 Z" id="8" fill="#FFDB9A" fill-rule="nonzero" opacity="0.400000006" transform="translate(14.420000, 11.448374) rotate(-37.000000) translate(-14.420000, -11.448374) "></path>
+                </g>
+                <g id="编组-18" transform="translate(66.404137, 310.690094)">
+                    <rect id="矩形" fill="url(#linearGradient-6)" fill-rule="nonzero" x="0" y="0" width="134" height="32" rx="8"></rect>
+                    <text id="返回" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#8B5311">
+                        <tspan x="53" y="21">返回</tspan>
+                    </text>
+                </g>
+                <polygon id="路径-32" fill="url(#linearGradient-7)" points="78.232443 255.690094 13.898877 121.298762 246.675636 121.298762 189.404137 258.190094"></polygon>
+                <polygon id="路径-32" fill="url(#linearGradient-8)" points="104.404137 255.690094 71.3182898 121.298762 188.300964 121.298762 158.753325 258.190094"></polygon>
+                <g id="编组-17" transform="translate(49.404137, 151.690094)">
+                    <ellipse id="椭圆形" fill="#FFFFFF" cx="84" cy="106.5" rx="84" ry="10.5"></ellipse>
+                    <ellipse id="椭圆形" fill="#806969" filter="url(#filter-9)" cx="83.5" cy="104" rx="29.5" ry="3"></ellipse>
+                    <g id="截屏2021-12-21-下午8.04.24" transform="translate(40.000000, 0.000000)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                    </g>
+                </g>
+                <g id="编组-20" transform="translate(67.570803, 246.690094)" fill-rule="nonzero">
+                    <g id="编组-19">
+                        <g id="路径-34">
+                            <use fill="url(#linearGradient-12)" xlink:href="#path-14"></use>
+                            <use fill-opacity="0.6" fill="url(#linearGradient-13)" style="mix-blend-mode: multiply;" xlink:href="#path-14"></use>
+                        </g>
+                        <g id="路径-34备份" transform="translate(24.416667, 28.000000) scale(-1, 1) translate(-24.416667, -28.000000) ">
+                            <use fill="url(#linearGradient-12)" xlink:href="#path-15"></use>
+                            <use fill-opacity="0.6" fill="url(#linearGradient-13)" style="mix-blend-mode: multiply;" xlink:href="#path-15"></use>
+                        </g>
+                        <path d="M61.8475255,0 C75.6547203,0 90.6344805,2.74821834 106.799888,8.20146593 L107.833333,8.5532188 L102.427212,38 C87.5515112,32.8918616 74.020304,30.3607949 61.8475255,30.3607949 C50.0327686,30.3607949 37.6596021,32.7458042 24.7152116,37.5489242 L23.7670415,37.904688 L17.8333333,8.64853077 C33.0007145,2.8947046 47.6767036,0 61.8475255,0 Z" id="路径-33" fill="url(#linearGradient-16)"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="恭喜中奖" fill-rule="nonzero">
+                <use fill="#D8D8D8" fill-opacity="1" filter="url(#filter-19)" xlink:href="#text-18"></use>
+                <use fill="url(#linearGradient-17)" xlink:href="#text-18"></use>
+                <use fill="#D8D8D8" fill-opacity="1" xlink:href="#text-18"></use>
+            </g>
+        </g>
+    </g>
+</svg>
