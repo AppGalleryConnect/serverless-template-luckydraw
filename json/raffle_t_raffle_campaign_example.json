@@ -1,0 +1,18 @@
+{
+  "cloudDBZoneName": "raffle",
+  "objects": [
+    {
+      "win_limit": 1,
+      "start_time": "2022-01-01 00:00:00 000",
+      "name": "新年抽奖",
+      "end_time": "2022-02-07 12:00:00 000",
+      "description": "新年抽奖，赢Mate40",
+      "theme": "1、新年抽奖活动细则 \\n2、最终解释权归主办方所有",
+      "style": null,
+      "id": "100001",
+      "type": 1,
+      "limit_times": 5
+    }
+  ],
+  "objectTypeName": "t_raffle_campaign"
+}

@@ -1,0 +1,48 @@
+{
+  "cloudDBZoneName": "raffle",
+  "objects": [
+    {
+      "quantity": 1,
+      "level": 1,
+      "special_id": null,
+      "probability": "2.0",
+      "remain": 1,
+      "day_limit": null,
+      "name": "一等奖",
+      "remark": null,
+      "id": "200001",
+      "type": 1,
+      "pic_url": "一等奖图片url",
+      "campaign_id": "100001"
+    },
+    {
+      "quantity": 5,
+      "level": 2,
+      "special_id": null,
+      "probability": "10.0",
+      "remain": 5,
+      "day_limit": null,
+      "name": "二等奖名称",
+      "remark": null,
+      "id": "200002",
+      "type": 1,
+      "pic_url": "二等奖图片url",
+      "campaign_id": "100001"
+    },
+    {
+      "quantity": 10,
+      "level": 3,
+      "special_id": null,
+      "probability": "20.50",
+      "remain": 10,
+      "day_limit": null,
+      "name": "三等奖名称",
+      "remark": null,
+      "id": "200003",
+      "type": 1,
+      "pic_url": "三等奖图片url",
+      "campaign_id": "100001"
+    }
+  ],
+  "objectTypeName": "t_raffle_award"
+}
