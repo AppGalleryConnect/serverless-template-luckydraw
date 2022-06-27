@@ -7,9 +7,9 @@ This repository contains the source code for AppGallery Connect front-end demo o
 This is a front-end project which provides H5 pages of AGC serverless template - LuckyDraw. Source code can be modified to customize styles.
 
 ## Usage
-1. `npm install`
-2. `npm run build`
-3. import the clouddb json in 'json' folder into your project
+1. import the clouddb json in 'json' folder into your project
+2. `npm install`
+3. `npm run build`
 
 ## Technical Support
 If you have any questions about the sample code, try the following:  
