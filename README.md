@@ -9,6 +9,7 @@ This is a front-end project which provides H5 pages of AGC serverless template -
 ## Usage
 1. `npm install`
 2. `npm run build`
+3. import the clouddb json in 'json' folder into your project
 
 ## Technical Support
 If you have any questions about the sample code, try the following:  
